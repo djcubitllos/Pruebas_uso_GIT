@@ -1,1 +1,5 @@
-Este es un archivo de practica para poder hacer pruebas en GIT -PLATZI
+Este es un archivo de practica para poder hacer pruebas en GIT y GITHUB -PLATZI
+
+Soy danny y tengo 31 años
+
+javascript / html / css / sass / react
