@@ -1,5 +1,29 @@
 body {
-
-    text-align: center;
+    
     font-family: Arial;
+    width: 600px;
+    height: 800px;
+     
+}
+
+.container{
+    margin: 0 50% ;
+    padding:10px;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    border: 1px solid black ;
+    background-color:#8fbfd6;
+}
+
+
+.container h1{
+    color: #1d5da7;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.container p{
+    color:#f2f0f5;
+    font-size: 18px;
 }
